@@ -1,0 +1,13 @@
+{
+  "name": "github",
+  "kit": "1.0.0",
+  "role": "public: the organization profile and security policy",
+  "verify": [],
+  "consumers": [
+    "everyone (public)"
+  ],
+  "scan_ignore": [
+    "profile/assets/"
+  ],
+  "ci": false
+}
