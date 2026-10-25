@@ -52,6 +52,12 @@ Our own native fantasy: create or join a league, draft with friends, set lineups
 
 We publish how our models are trained and judged, including the seasons where we did worse than the no-skill baseline, because a record you can't check isn't worth much.
 
+## Start here
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kirkovasports/.github/main/profile/assets/start-here.webp" alt="Where to start: visit kirkova.cc, join the Discord, read the models, report a problem" width="900">
+</div>
+
 ## Open source
 
 | Repository | What it is |
