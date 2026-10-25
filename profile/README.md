@@ -52,6 +52,12 @@ Our own native fantasy: create or join a league, draft with friends, set lineups
 
 We publish how our models are trained and judged, including the seasons where we did worse than the no-skill baseline, because a record you can't check isn't worth much.
 
+## Start here
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kirkovasports/.github/main/profile/assets/start-here.webp" alt="Where to start: visit kirkova.cc, join the Discord, read the models, report a problem" width="900">
+</div>
+
 ## Open source
 
 | Repository | What it is |
@@ -65,16 +71,10 @@ Found a flaw in a method or a number, a docs mistake, or have an idea? **Open an
 
 <p>
 <img src="https://img.shields.io/badge/Python-17181d?style=flat-square&logo=python&logoColor=c98a2c" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-17181d?style=flat-square&logo=fastapi&logoColor=c98a2c" alt="FastAPI">
-<img src="https://img.shields.io/badge/Celery-17181d?style=flat-square&logo=celery&logoColor=c98a2c" alt="Celery">
-<img src="https://img.shields.io/badge/PostgreSQL-17181d?style=flat-square&logo=postgresql&logoColor=c98a2c" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Redis-17181d?style=flat-square&logo=redis&logoColor=c98a2c" alt="Redis">
 <img src="https://img.shields.io/badge/XGBoost_%2B_LightGBM-17181d?style=flat-square&logoColor=c98a2c" alt="XGBoost and LightGBM">
 <img src="https://img.shields.io/badge/Next.js-17181d?style=flat-square&logo=nextdotjs&logoColor=c98a2c" alt="Next.js">
 <img src="https://img.shields.io/badge/Expo_%2F_React_Native-17181d?style=flat-square&logo=expo&logoColor=c98a2c" alt="Expo and React Native">
 <img src="https://img.shields.io/badge/Remotion-17181d?style=flat-square&logo=remotion&logoColor=c98a2c" alt="Remotion">
-<img src="https://img.shields.io/badge/Docker-17181d?style=flat-square&logo=docker&logoColor=c98a2c" alt="Docker">
-<img src="https://img.shields.io/badge/Cloudflare-17181d?style=flat-square&logo=cloudflare&logoColor=c98a2c" alt="Cloudflare">
 </p>
 
 <sub>Predictions are for entertainment only, not betting or financial advice. Past results do not guarantee future results.</sub>
